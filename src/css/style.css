@@ -99,9 +99,27 @@ nav {
     text-align: center;
     width: 1000px;
 }
+.section-map {
+    margin-bottom: 20px;
+}
 .section-map__title {
     margin-bottom: 20px;
     text-align: center;
     font-size: 36px;
+}   
+iframe {
+    display: block;
+    margin: 0 auto;
 }
-iframe
+hr {
+    border: none;
+    border-top: 1px solid #999999;
+    width: 1024px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+}
+
+footer {
+    height: 80px;
+}
